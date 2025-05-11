@@ -3,7 +3,7 @@
 | Installation Guide                                                                                                                   |                                                           |
 | :----------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------- |
 | This article is a part of the Installation Guide. You can read it alone or click the previous link to easily move between the steps. |
-| [<< Step 2: Core Installation](linux-core-installation)                                                                                    | [Step 4: Database Installation >>](database-installation) |
+| [<< Step 2: Core Installation](linux-core-installation)                                                                                    | [Step 4: Database Installation >>](database-installation.md) |
 
 **Table of contents**
 - [Client Data Files (Download Pre-Extracted)](#option-1-download-pre-extracted-files)
